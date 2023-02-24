@@ -11,7 +11,7 @@
 
 using namespace westonrobot;
 
-std::unique_ptr<ScoutRobot> robot;//
+std::unique_ptr<ScoutRobot> robot;////
 
 int main(int argc, char **argv) {
   // setup ROS node
