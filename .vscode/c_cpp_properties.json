@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/luo/control_ws/devel/include/**",
+        "/home/luo/ws_livox/devel/include/**",
+        "/home/luo/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/luo/catkin_ws/src/realsense-ros/realsense2_camera/include/**",
+        "/home/luo/control_ws/src/scout_ctrl/scout_base/include/**",
+        "/home/luo/control_ws/src/scout_ctrl/ugv_sdk/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
